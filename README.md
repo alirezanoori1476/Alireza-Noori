@@ -56,8 +56,24 @@ Techs & Approaches:
   1. Domain-Driven Design
   2. Onion Architecture
   3. Object-Oriented Programming
-  4. C#, .NET, ASP.Net
+  4. C#, ASP.Net
   5. Entity Framework Core
   6. SQL Server, MongoDB
 
 -----------------------------------------------------------------------------
+
+-- BRE -  FullStack Developer  -  Full Time  -  1 Year & 1 Month
+
+As a valued contributor to BRE, an international company that operates in the global cargo industry, I was responsible for developing a high-stake Customer Relationship Management (CRM) system for airline express. I collaborated with a talented team of professionals to design and implement the system with the latest technologies, including .NET Core, C#, and SQL Server. To ensure the integrity and maintainability of our CRM, I applied Test-Driven Development (TDD) and Domain-Driven Design (DDD) techniques. By following a DDD approach, we could better manage the complexity of the project and create a robust architecture. As a result, we delivered an innovative system that exceeded customer expectations and outperformed the competition. My work primarily focused on the backend development using Asp.Net Core, which powered a scalable and secure foundation for the system. Additionally, I contributed to the front-end development using Angular 8, which provided our end-users with a user-friendly interface. Looking back, I am proud to have played a crucial role in the development of the CRM system for BRE. The project enabled me to hone my expertise in the latest technologies and methodologies, and I am grateful to have worked alongside such a talented team of experts.
+
+Techs & Approaches:
+  1. Domain-Driven Design
+  2. Onion Architecture
+  3. Object-Oriented Programming
+  4. C#, ASP.Net
+  5. Entity Framework Core
+  6. SQL Server, MongoDB, Redis
+  7. HTML, CSS, Bootstrap, SASS
+  11. Javascript, Typescript
+  12. Angular
+  13. Hangfire
