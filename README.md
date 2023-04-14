@@ -5,9 +5,11 @@ This is my bio...
 
 -----------------------------------------------------------------------------
 
+👋👋 Hi There. I’m Alireza Noori, a passionate software developer who loves to create innovative solutions using .NET technologies.
+
 😎😎 About Me:
 
-  As a passionate software developer, I thrive on overcoming challenges and creating innovative solutions. With expertise in .NET development, I have a keen interest in software architecture and domain-driven design, always striving to learn new skills and improve my software design, patterns, and practices. I am well-versed in agile methodologies and tools, including Scrum, Jira, and Git. With strong communication, collaboration, and problem-solving skills, I excel both on collaborative teams and as an independent worker. I am always on the lookout for opportunities to contribute to meaningful projects and collaborate with other developers.
+  I have a strong background in software architecture and domain-driven design, and I always aim to learn new skills and improve my software design, patterns, and practices. I am proficient in .NET development, including C#, ASP.Net, SignalR, Entity Framework Core, and Dapper. I also have experience with SQL Server, Elastic Search, MongoDB, Redis, OAuth 2.0 & OpenID Connect, HTML, CSS, Bootstrap, SASS, Javascript, Typescript, Angular, Razor Pages, and Hangfire. I am familiar with agile methodologies and tools, such as Scrum, Jira, and Git. I enjoy working both on collaborative teams and as an independent worker. I am looking for opportunities to contribute to meaningful projects and collaborate with other developers.
 
 -----------------------------------------------------------------------------
 
