@@ -5,7 +5,7 @@ This is my bio...
 
 -----------------------------------------------------------------------------
 
-👋👋 Hi There. I’m Alireza Noori, a passionate software developer who loves to create innovative solutions using .NET technologies.
+I’m Alireza Noori, a passionate software developer who loves to create innovative solutions using .NET technologies.
 
 😎😎 About Me:
 
